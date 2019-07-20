@@ -1,0 +1,7 @@
+.output {
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    width: 40%;
+    padding: 1rem 2rem;
+    border: 1px solid #ccc;
+}
